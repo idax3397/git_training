@@ -1,5 +1,5 @@
 library(RPostgres)
 library(tidyverse) 
 
-print("hello wolrd igen")
+print("kom nu")
 
