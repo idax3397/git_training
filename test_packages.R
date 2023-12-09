@@ -1,5 +1,5 @@
 library(RPostgres)
-library(tidyverse) 
+library(tidyverse) %for science
+library(MASS)
 
-print("kom nu")
 
