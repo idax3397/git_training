@@ -1,5 +1,5 @@
 library(RPostgres)
-library(tidyverse) %for science
+library(tidyverse) #for science haha 
 library(MASS)
 
 
